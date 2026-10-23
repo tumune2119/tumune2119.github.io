@@ -1,0 +1,10 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.tumune2119.munesplits",
+      "sha256_cert_fingerprints": ["E7:11:D1:99:7E:79:D4:BF:B3:47:63:C0:CD:1A:89:77:2D:E6:A0:CC:18:5F:BE:65:79:47:17:C1:6C:99:B2:A7"]
+    }
+  }
+]
